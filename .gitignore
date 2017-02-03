@@ -1,0 +1,12 @@
+left.bin.png
+right.bin.png
+*.nrm.png 
+*.pseg.png
+OCRpus-nlbin/*.txt
+scantailor+0/*.txt
+scantailor+10/*.txt
+scantailor+20/*.txt
+scantailor+30/*.txt
+scantailor-300+30/*.txt
+scantailor+40/*.txt
+.pynative/
