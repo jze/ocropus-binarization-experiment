@@ -1,8 +1,8 @@
 # program	char. err. rate [%]
-ocropus-nlbin	6,439
-ScanTailor 600dpi +0	4,33181
-ScanTailor 600dpi +10	3,31516
-ScanTailor 600dpi +20	2,7552
-ScanTailor 600dpi +30	2,048
-ScanTailor 600dpi +40	3,1236
-ScanTailor 300dpi +30	3,5656
+ocropus-nlbin	5.35556211272
+ScanTailor 600dpi +0	4.48509884922
+ScanTailor 600dpi +10	3.46709943936
+ScanTailor 600dpi +20	2.89170846857
+ScanTailor 600dpi +30	2.52286810269
+ScanTailor 600dpi +40	3.15727353202
+ScanTailor 300dpi +30	3.55562112718
